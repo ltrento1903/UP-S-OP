@@ -1,0 +1,25 @@
+C:\Users\luizt\Projetos_SOP>python Regressão_quantica_DSDI.py
+=== TABELA DE RESULTADOS PARA O ARTIGO ===
+             Marca  AW_Padrao  AW_Quantil  Melhoria_AW  Pinball_Padrao  Pinball_Quantil
+0         Gasolina     0.1977      0.1808       0.0169          403.40           370.80
+1         Elétrico     1.0076      0.9760       0.0316         6022.06          5828.77
+2          Híbrido     0.5426      0.4977       0.0449         2855.61          2618.36
+3  Híbrido Plug-in     0.8623      0.8478       0.0145         4451.97          4375.43
+4        Flex Fuel     0.1784      0.1630       0.0153        10815.58          9353.38
+5           Diesel     0.1962      0.1763       0.0199         1724.39          1505.32
+
+
+=== ANÁLISE ESTATÍSTICA (AW_Padrao vs AW_Quantil) ===
+Média AW_Padrao:    0.4975
+Média AW_Quantil:   0.4736
+Mediana AW_Padrao:  0.3701
+Mediana AW_Quantil: 0.3392
+
+Teste de Wilcoxon (p-value): 0.0312
+Cohen's d (Effect Size):     1.9808
+
+=== CONCLUSÃO PARA O MANUSCRITO ===
+The Quantile approach improved the asymmetric WMAPE in 6 categories,
+while the remaining 0 categories exhibited either marginal deterioration or negligible differences.
+
+C:\Users\luizt\Projetos_SOP>

@@ -1,0 +1,13 @@
+Microsoft Windows [versão 10.0.26200.9457]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\luizt\Projetos_SOP>python Teste_Wilcoxon_DSDI.py
+--- Teste de Wilcoxon (Postos Sinalizados) ---
+Estatística de Teste (W): 15.0
+Valor de p: 0.03125
+
+--- Conclusão ---
+A redução do viés absoluto pelo Decision Score é ESTATISTICAMENTE SIGNIFICATIVA a 5% (p < 0.05).
+A hipótese nula é rejeitada. A melhoria não ocorreu ao acaso.
+
+C:\Users\luizt\Projetos_SOP>
